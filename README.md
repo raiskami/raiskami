@@ -5,7 +5,8 @@
 ### Full-Stack & AI Engineer · CEO of SvnStack
 
 <a href="https://svnstack.com"><img src="https://img.shields.io/badge/Website-svnstack.com-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
+<a href="https://www.upwork.com/freelancers/muhammadkamran128"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-kamran-391a50345"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Job%20Success-100%25-0f172a?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Open%20for%20projects-0d9488?style=for-the-badge" />
 
@@ -17,7 +18,7 @@
 
 I design and build **production-grade ecommerce platforms, SaaS products and AI-powered features** for founders and growing businesses. I lead **[SvnStack](https://svnstack.com)**, a full-stack and AI development agency, and stay hands-on in architecture, code review and delivery on every project.
 
-> Most of my client work is under NDA, so the code lives in private repositories. The live products below are the proof.
+> Most of my client work is under NDA, so the code lives in private repositories. The live products and case studies below are the proof.
 
 &nbsp;
 
@@ -66,6 +67,20 @@ WooCommerce, Tutor LMS, custom plugins and third-party API integrations with a p
 | **Ecommerce & CMS** | ![Shopify](https://img.shields.io/badge/Shopify-7ab55c?logo=shopify&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588a?logo=woocommerce&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759b?logo=wordpress&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635bff?logo=stripe&logoColor=white) |
 | **AI** | ![Claude](https://img.shields.io/badge/Claude%20API-d97757?logo=anthropic&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-pipelines-0d9488) ![LLM](https://img.shields.io/badge/LLM-workflows-0f172a) |
 | **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-232f3e?logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
+
+&nbsp;
+
+## 🗂️ Case studies
+
+Each repository below is a public case study: overview, architecture map and my role. Source code stays private to protect client confidentiality and prevent reverse-engineering of their products.
+
+| Case study | What it covers | Stack |
+|---|---|---|
+| **[CREUW.AI Platform](https://github.com/raiskami/creuw-ai-platform)** | AI-powered commercial real-estate SaaS | Next.js · Supabase · Claude API |
+| **[AI Product Enrichment Pipeline](https://github.com/raiskami/ai-product-enrichment-pipeline)** | Claude-powered enrichment of 28,000 Shopify Plus products | Python · Claude API · Shopify Bulk Ops |
+| **[B2B Customer Portal](https://github.com/raiskami/b2b-customer-portal)** | Real-time portal across Shopify, Cin7 Omni and Xero | Next.js · OWASP ASVS L2 |
+| **[Shopify Live Shipping Rates App](https://github.com/raiskami/shopify-live-shipping-rates-app)** | Custom app with live freight rates via Freightcom | Shopify · Laravel · Freightcom API |
+| **[WordPress LMS and Commerce Platform](https://github.com/raiskami/wordpress-lms-commerce-platform)** | Online course platform with memberships and payments | WordPress · Tutor LMS Pro · WooCommerce |
 
 &nbsp;
 
@@ -145,7 +160,7 @@ WooCommerce, Tutor LMS, custom plugins and third-party API integrations with a p
 <details>
 <summary><b>🏨 Healthcare, hospitality & real estate</b></summary>
 
-- [Online Pharmacy 4U](https://onlinepharmacy-4u.co.uk)
+- [Online Pharmacy 4U](https://onlinepharmacy-4u.co.uk)Add LinkedIn, Upwork links and case study section
 - [NHS Prescriptions](https://nhs-prescriptions.co.uk)
 - [PC Hotels](https://pchotels.com)
 - [Mukhtara Hotels](https://mukhtarahotels.com)
@@ -154,22 +169,6 @@ WooCommerce, Tutor LMS, custom plugins and third-party API integrations with a p
 - [Roomph](https://roomph.pk)
 
 </details>
-
-&nbsp;
-
-## 🏗️ Example: AI enrichment pipeline
-
-How I structure an AI feature so it stays reliable at scale (pattern from the Mega Office Supplies build):
-
-```mermaid
-flowchart LR
-    A[Catalog data] --> B[Python ingestion and validation]
-    B --> C[Claude API enrichment]
-    C --> D[Structured output checks]
-    D --> E[Shopify Bulk Operations]
-    D -.failed checks.-> F[Retry queue]
-    F --> C
-```
 
 &nbsp;
 
@@ -190,7 +189,9 @@ Have a Shopify, web app or AI project? Send me the problem and I'll tell you hon
 
 <div align="center">
 
-**[svnstack.com](https://svnstack.com)** · SvnStack · From idea to product
+[Website](https://svnstack.com) · [Upwork](https://www.upwork.com/freelancers/muhammadkamran128) · [LinkedIn](https://www.linkedin.com/in/muhammad-kamran-391a50345)
+
+**SvnStack** · From idea to product
 
 <sub>SvnStack is the brand of MK SVNSTACK SYSTEMS (SMC-PRIVATE) LIMITED</sub>
 
