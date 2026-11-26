@@ -104,17 +104,6 @@ Each repository below is a public case study: overview, architecture map and my 
 ## 📂 More live projects
 
 <details>
-<summary><b>🤖 AI, SaaS & chatbots</b></summary>
-
-- [BestGradez](https://bestgradez.com) (AI platform with Stripe payments)
-- [Stanify.ai](https://stanify.ai)
-- [Corzly Hub](https://hub.corzly.com)
-- [Brain Power Rocks](https://app.brainpowerrocks.com)
-- [GetWiz](https://getwiz.xyz) · [YourFriends.ai](https://yourfriends.ai) · [ChatMate.ai](https://chatmate.ai) (AI chatbots)
-
-</details>
-
-<details>
 <summary><b>🛒 Shopify stores</b></summary>
 
 - [Ivar Clothing](https://ivarclothing.com)
@@ -160,7 +149,7 @@ Each repository below is a public case study: overview, architecture map and my 
 <details>
 <summary><b>🏨 Healthcare, hospitality & real estate</b></summary>
 
-- [Online Pharmacy 4U](https://onlinepharmacy-4u.co.uk)Add LinkedIn, Upwork links and case study section
+- [Online Pharmacy 4U](https://onlinepharmacy-4u.co.uk)Remove projects that are not mine
 - [NHS Prescriptions](https://nhs-prescriptions.co.uk)
 - [PC Hotels](https://pchotels.com)
 - [Mukhtara Hotels](https://mukhtarahotels.com)
